@@ -1,0 +1,15 @@
+name: docs
+channels:
+dependencies:
+    # Base depends
+  - python
+  - pip
+  - numpy
+  - matplotlib
+
+
+    # Pip-only installs
+  - pip:
+    - sphinx
+    - sphinx-rtd-theme
+
