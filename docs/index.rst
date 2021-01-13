@@ -5,6 +5,7 @@
 
 Welcome to molecool's documentation!
 =========================================================
+Molecool is a Python package that can read in pdb files
 
 .. toctree::
    :maxdepth: 2
