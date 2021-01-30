@@ -1,3 +1,6 @@
 This is an important document for practicing interactive rebase
 
 1st addition from rebase practice
+
+
+2nd addition
